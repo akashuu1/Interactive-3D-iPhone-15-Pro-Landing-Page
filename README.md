@@ -50,7 +50,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
+git clone https://github.com/akashuu1/Interactive-3D-iPhone-15-Pro-Landing-Page.git
 ```
 
 **Installation**
